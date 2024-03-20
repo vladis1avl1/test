@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "9039493d28bdb3e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7965a2efdb5af579",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71560165cb51ee46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "one/hbhdhdsg.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "972168e31371f264",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdc76a469c0c56db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a36d877e9345573",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "13824227a098a04b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#как",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "382567a6a9164207",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "288d59552b3b93ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fb8d0661f6955ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b93ee4bd58b60753",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "one/hbhdhdsg.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ceb3ce6f4af90947",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "one/hbhdhdsg.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f6e59e3c7245dd94",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6a534728f1a2a5f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "one/hbhdhdsg.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "71560165cb51ee46",
+  "lastOpenFiles": [
+    "Pasted image 20240320140449.png",
+    "Pasted image 20240320135641.png",
+    "Pasted image 20240320135341.png",
+    "Pasted image 20240320135335.png",
+    "one/tri.md",
+    "one/two.md",
+    "README.md",
+    "Без названия.canvas"
+  ]
+}
